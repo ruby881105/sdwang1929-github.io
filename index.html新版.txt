@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>王蘇緞女士紀念獎學金</title>
+  <style>
+    body {
+      font-family: "Segoe UI", sans-serif;
+      background-color: #f9f9f9;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+    header {
+      background-color: #4CAF50;
+      color: white;
+      padding: 30px 0;
+      text-align: center;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 800px;
+      margin: auto;
+      background-color: white;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #333;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #eee;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>歡迎來到我們的網站</h1>
+    <p>探索我們的故事與聯繫方式</p>
+  </header>
+
+  <section id="origin">
+    <h2>📖 成立緣起</h2>
+    <p>
+      王蘇緞女士出生於原高雄縣路竹鄉大社村，20歲嫁到一甲村，
+36歲喪夫，於2014年5月28日病逝於台北，享壽86歲。
+
+王女士一生盡心養育子女（王榮輝、王秀麗、王榮騰、王榮彰），
+照顧孫子女（王勻駿、王勻芯、王勻芝），勤儉持家。
+
+為緬懷王女士的付出，其子女謹特此設立「王蘇緞女士紀念獎學金」，
+委由學校評審，期能協助高雄市路竹區大社國小、高雄市路竹區一甲國小、
+高雄市路竹高中國中部、臺南一中之清寒優秀學生及品學兼優學生努力向學。
+    </p>
+  </section>
+
+  <section id="info">
+    <h2>ℹ️ 資訊</h2>
+    <p>
+      本網站提供高雄市立一甲國小、大社國小、路竹高中及台南一中優秀學子獲獎學金學生名單。
+    </p>
+  </section>
+
+  <section id="contact">
+    <h2>📬 聯絡我們</h2>
+    <p>
+      如果你有任何問題、建議或合作意願，歡迎透過以下方式與我們聯絡：
+    </p>
+    <ul>
+      <li>Email: example@mail.com</li>
+      <li>GitHub: <a href="https://github.com/王勻芯 王榮騰姪女
+email: cocoshe37200128@gmail.com" target="_blank">github.com/王勻芝 王榮騰姪女
+email: ruby2000tw25
+@gmail.com</a></li>
+    </ul>
+  </section>
+
+  <footer>
+    &copy; 2025 王蘇緞女士紀念獎學金 - 保留所有權利
+  </footer>
+
+</body>
+</html>
